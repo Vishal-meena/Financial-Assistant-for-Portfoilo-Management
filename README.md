@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Investment Portfolio Management System is a sophisticated tool designed to assist clients of a prestigious brokerage firm in managing their investments effectively. This system leverages advanced investment analysis and portfolio management techniques to provide clients with insightful recommendations, helping them make well-informed investment decisions aligned with their financial goals.
+The Investment Portfolio Management System is a sophisticated tool designed to assist clients in managing their investments effectively. This system leverages advanced investment analysis and portfolio management techniques to provide clients with insightful recommendations, helping them make well-informed investment decisions aligned with their financial goals.
 
 ## Functionality
 
@@ -22,3 +22,6 @@ The Investment Portfolio Management System is a sophisticated tool designed to a
   - `llama_index` for handling indices and documents.
   - `sqlalchemy` for ORM and database operations.
   - `OpenAIAgent` for integrating AI capabilities into the system.
+
+
+## Project Benefits:
